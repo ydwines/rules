@@ -1,4 +1,4 @@
-# ChatGPT tubiTV GV
+# ChatGPT tubiTV GV Talkatone
 
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,openai.com
@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN,lens.l.google.com
+DOMAIN-SUFFIX,Tktn.be
