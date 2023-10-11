@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,tappx.com
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,cloudflare-dns.com
+;DOMAIN-SUFFIX,cloudflare-dns.com
