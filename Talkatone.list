@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,trustarc.com
-DOMAIN-SUFFIX,adsrvr.org
-DOMAIN-SUFFIX,doubleverify.com
-DOMAIN-SUFFIX,inmobi.cn
+;DOMAIN-SUFFIX,trustarc.com
+;DOMAIN-SUFFIX,adsrvr.org
+;DOMAIN-SUFFIX,doubleverify.com
+;DOMAIN-SUFFIX,inmobi.cn
