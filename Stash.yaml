@@ -8,7 +8,7 @@ log-level: info
 ipv6: true
 external-controller: 127.0.0.1:9090
 
-subscribe-url:https://api.dingyueddns.life/link/Qa5G6iDGtUYtn4wz?clash=1
+subscribe-url: https://api.dingyueddns.life/link/Qa5G6iDGtUYtn4wz?clash=1
 #替换上面文字用于Stash获取机场流量信息并在主页显示
 
 proxy-providers:
