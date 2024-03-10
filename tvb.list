@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,nivod8.tv
 #stream-link
 DOMAIN-SUFFIX,stream-link.online
 DOMAIN-SUFFIX,stream-link.org
+
+#Tor 洋葱
+IP-CIDR,45.80.168.22/32,no-resolve
+IP-CIDR,191.96.110.12/32,no-resolve
