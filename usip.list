@@ -1,0 +1,16 @@
+# Tubi
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,adrise.tv
+
+# TED
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,tedcdn.com
+
+# pluto TV
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
+
+# mail
+DOMAIN-SUFFIX,mail.proton.me
