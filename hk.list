@@ -18,5 +18,6 @@ IP-CIDR,191.96.110.12/32,no-resolve
 # z-library
 DOMAIN-SUFFIX,articles.se
 DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sx
 DOMAIN-SUFFIX,zlib.se
 DOMAIN-SUFFIX,yadro.ru
